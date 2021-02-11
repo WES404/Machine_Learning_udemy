@@ -1,0 +1,16 @@
+Census
+--------------------
+0.4767 - Naive Bayes (labelEncoder + oneHotEncoder + escalonamento)
+0.7952 - Naive Bayes (labelEncoder)
+0.7950 - Naive Bayes (labelEncoder + oneHotEncoder)
+0.8057 - Naive Bayes (labelEncoder + escalonamento)
+
+0.8102 - Árvore de decisão (labelEncoder + oneHotEncoder + escalonamento)
+0.8128 - Árvore de decisão (labelEncoder)
+0.8102 - Árvore de decisão (labelEncoder + oneHotEncoder)
+0.8128 - Árvore de decisão (labelEncoder + escalonamento)
+
+0.8476 - Random Forest n_estimator = 40 (labelEncoder + oneHotEncoder + escalonamento)
+0.8481 - Random Forest n_estimator = 40 (labelEncoder)
+0.8489 - Random Forest n_estimator = 40 (labelEncoder + oneHotEncoder)
+0.8479 - Random Forest n_estimator = 40 (labelEncoder + escalonamento)
