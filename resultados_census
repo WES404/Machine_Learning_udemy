@@ -14,3 +14,8 @@ Census
 0.8481 - Random Forest n_estimator = 40 (labelEncoder)
 0.8489 - Random Forest n_estimator = 40 (labelEncoder + oneHotEncoder)
 0.8479 - Random Forest n_estimator = 40 (labelEncoder + escalonamento)
+
+0.8228 - KNN K = 5, p = 2 , metric = minkowski (labelEncoder + oneHotEncoder + escalonamento)
+0.7734 - KNN K = 5, p = 2 , metric = minkowski (labelEncoder)
+0.7735 - KNN K = 5, p = 2 , metric = minkowski (labelEncoder + oneHotEncoder)
+0.8281 - KNN K = 5, p = 2 , metric = minkowski (labelEncoder + escalonamento)
