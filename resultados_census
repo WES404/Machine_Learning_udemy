@@ -19,3 +19,8 @@ Census
 0.7734 - KNN K = 5, p = 2 , metric = minkowski (labelEncoder)
 0.7735 - KNN K = 5, p = 2 , metric = minkowski (labelEncoder + oneHotEncoder)
 0.8281 - KNN K = 5, p = 2 , metric = minkowski (labelEncoder + escalonamento)
+
+0.8517 - Logistic Regression (labelEncoder + oneHotEncoder + escalonamento)
+0.7888 - Logistic Regression (labelEncoder)
+0.7997 - Logistic Regression (labelEncoder + oneHotEncoder)
+0.8257 - Logistic Regression (labelEncoder + escalonamento)
