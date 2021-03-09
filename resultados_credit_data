@@ -5,3 +5,4 @@ Credit Data
 0.9839 - Random Forest n_estimators = 40 (Inconsistentes + faltantes + escalonamento)
 0.986 - KNN K = 5, p = 2 , metric = minkowski (Inconsistentes + faltantes + escalonamento)
 0.946 - Logistic Regression (Inconsistentes + faltantes + escalonamento)
+0.988 - SVM kernel = rbf c = 2 (Inconsistentes + faltantes + escalonamento)
