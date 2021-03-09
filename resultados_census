@@ -24,3 +24,10 @@ Census
 0.7888 - Logistic Regression (labelEncoder)
 0.7997 - Logistic Regression (labelEncoder + oneHotEncoder)
 0.8257 - Logistic Regression (labelEncoder + escalonamento)
+
+0.8519 - SVM kernel = linear (labelEncoder + oneHotEncoder + escalonamento)
+?      - SVM kernel = linear (labelEncoder)
+?      - SVM kernel = linear (labelEncoder + oneHotEncoder)
+0.8161 - SVM kernel = linear (labelEncoder + escalonamento)
+
+
